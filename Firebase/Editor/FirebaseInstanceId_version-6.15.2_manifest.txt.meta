@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 60c6a414218041ccb0740a4c4d2ed148
+guid: 779b0b97ac3942eda3552f8a8a083e3e
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-6.15.1
-- gvhp_exportpath-Firebase/Editor/FirebaseInstanceId_version-6.15.1_manifest.txt
+- gvh_version-6.15.2
+- gvhp_exportpath-Firebase/Editor/FirebaseInstanceId_version-6.15.2_manifest.txt
 - gvhp_manifestname-0Firebase Instance ID
 - gvhp_manifestname-1FirebaseInstanceId
 timeCreated: 0
